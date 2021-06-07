@@ -11,5 +11,6 @@
 
 ## 問題：
 * 不確定JSONP請求和callback寫在哪
-  （都寫在index.html or 都寫在同一個js檔案 or 還是分開寫在不同js檔案)
-
+  ＊都寫在index.html or 都寫在同一個js檔案 or 還是分開寫在不同js檔案
+  ＊最後決定JSONP寫在index.html; callback寫在callback.js
+ 
